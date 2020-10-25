@@ -1,0 +1,28 @@
+{
+   "games": [
+   {
+        "name" : "RPG Game 1",
+        "video" : "url",
+        "screenShots" : ["url", "url", "url"]
+        "quickFacts" : ["RPG Game 1", "Studio/Individual", "genre", "1/1/1900", "PC,PS4,Switch", "yes/no"]
+        "description" : "This is the game description. It will just be a few sentences long"
+        "links" : ["crowdsource url", "youtube url", "game site url", creator site url"]
+   },
+   {
+        "name" : "RPG Game 2",
+        "video" : "url",
+        "screenShots" : ["url", "url", "url"]
+        "quickFacts" : ["RPG Game 2", "Studio/Individual", "genre", "1/1/1900", "PC,PS4,Switch", "yes/no"]
+        "description" : "This is the game description. It will just be a few sentences long"
+        "links" : ["crowdsource url", "youtube url", "game site url", creator site url"]
+   },
+   {
+        "name" : "RPG Game 3",
+        "video" : "url",
+        "screenShots" : ["url", "url", "url"]
+        "quickFacts" : ["RPG Game 3", "Studio/Individual", "genre", "1/1/1900", "PC,PS4,Switch", "yes/no"]
+        "description" : "This is the game description. It will just be a few sentences long"
+        "links" : ["crowdsource url", "youtube url", "game site url", creator site url"]
+   }
+]
+}
